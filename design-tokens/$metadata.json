@@ -8,10 +8,10 @@
     "primitives/colors/light/global",
     "primitives/colors/light/theme",
     "primitives/colors/light/theme2",
+    "primitives/colors/light/theme1",
     "themes/theme",
     "themes/theme2",
     "semantic/color",
-    "semantic/style",
-    "primitives/colors/light/theme1"
+    "semantic/style"
   ]
 }
